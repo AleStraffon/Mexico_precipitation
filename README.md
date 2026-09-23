@@ -101,3 +101,18 @@ Hydrological Region shapefile in `Shape_HR`.
 **Alejandra Straffon**  
 Corresponding author / Data and code contact  
 Email: alejandra.straffon@atmosfera.unam.mx
+
+## License
+
+The MATLAB scripts and Python/Jupyter notebooks in the `Code/` folder are
+licensed under the MIT License. See the `LICENSE` file for the full license
+text.
+
+The processed data in the `Data/` folder are provided for reproducibility and
+are subject to the terms and conditions applicable to the underlying data
+sources. Please cite the original data providers as indicated in this
+README.
+
+The files in the `Shape_HR/` folder were obtained from the CONABIO Geoportal
+and are subject to the terms and conditions established by the original data
+provider. They are not covered by the MIT License.
