@@ -56,7 +56,7 @@ averaged precipitation series.
 
 ### Code
 
-The `Code` folder contains the MATLAB scripts used to process and
+The `Code` folder contains the MATLAB scripts and Python/Jupyter notebooks used to process and
 analyze the precipitation datasets and to generate the figures presented
 in the study.
 
